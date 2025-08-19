@@ -402,13 +402,14 @@ namespace yılan_oyunu
                 shakeCount = 0;
                 isShaking = false;
 
-                // Ekranın merkezini bul
-                Screen screen = Screen.PrimaryScreen;
-                int yerX = (screen.Bounds.Width - this.Width) / 2;
-                int yerY = (screen.Bounds.Height - this.Height) / 2 - 30;
+                Random rn1 = new Random();
 
-                // Form'u ekranın merkezine yerleştir
-                this.Location = new Point(yerX, yerY);
+                int yerX, yerY;
+
+                yerX = rn1.Next(600);
+                yerY = rn1.Next(300);
+
+                this.Location = new Point(yerX, yerY); // Formu orijinal konumuna geri getir
             }
         }
     }
