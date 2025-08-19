@@ -1,0 +1,26 @@
+# Visual Studio generated
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Roslyn
+*.ruleset
+
+# Rider
+.idea/
+*.sln.iml
+
+# User-specific files
+*.DotSettings.user
+
+# Other
+*.log
+*.tlog
+*.bak
+*~
+.vs/
