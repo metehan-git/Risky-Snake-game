@@ -1,6 +1,6 @@
 # Yılan Oyunu
 
-Bu proje, Windows Forms tabanlı bir yılan oyunudur. Bu proje benzersiz bir özelliğe sahiptir: bir ödülü (elma) tüketmek, aynı zamanda görsel olarak aynı ancak oyunu sonlandıran bir engel de oluşturur. Bu, oyuncuyu güvenli ve tehlikeli nesneler arasında ayrım yapmaya zorlayarak bir risk ve ödül katmanı ekler.
+Bu proje, Windows Forms tabanlı bir Yılan oyunudur. Bu proje benzersiz bir mekanikle çalışır: Bir ödül (elma) tüketildiğinde, görsel olarak aynı olan ancak oyunu bitiren bir engel de oluşur. Bu, oyuncuları güvenli ve tehlikeli nesneler arasında ayrım yapmaya zorlayarak bir risk ve ödül katmanı ekler.
 
 ## İçindekiler
 
